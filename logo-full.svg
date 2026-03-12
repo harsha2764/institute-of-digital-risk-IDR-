@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="100%" height="100%">
+  <!-- Icon Group -->
+  <g transform="translate(50, 50) scale(0.8)">
+    <!-- Top Face (Orange) -->
+    <path d="M 0 -40 L 34.64 -20 L 0 0 L -34.64 -20 Z" fill="#FF5722" />
+    <!-- Left Face (Dark Grey) -->
+    <path d="M -34.64 -20 L 0 0 L 0 40 L -34.64 20 Z" fill="#333333" />
+    <!-- Right Face (Black) -->
+    <path d="M 0 0 L 34.64 -20 L 34.64 20 L 0 40 Z" fill="#000000" />
+    
+    <!-- Inner lines -->
+    <path d="M 0 0 L 0 40" stroke="#FFFFFF" stroke-width="2" />
+    <path d="M 0 0 L -34.64 -20" stroke="#FFFFFF" stroke-width="2" />
+    <path d="M 0 0 L 34.64 -20" stroke="#FFFFFF" stroke-width="2" />
+  </g>
+  
+  <!-- Text Group -->
+  <g transform="translate(110, 58)">
+    <text font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="28" fill="#000000" letter-spacing="-0.5">
+      Institute of 
+      <tspan fill="#FF5722">Digital Risk</tspan>
+    </text>
+  </g>
+</svg>

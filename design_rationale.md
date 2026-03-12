@@ -1,0 +1,3 @@
+# Design Rationale for Institute of Digital Risk (IDR)
+
+The logo utilizes an isometric cube as its core symbol, representing strict structure, solid foundational resilience, and the multi-faceted nature of risk in the digital landscape. The primary color palette features a vibrant, energetic orange (#FF5722) to signify urgency, innovation, and action, balanced by stark black and structural greys that convey authority, security, and academic rigor. The typography uses a modern, clean sans-serif font to maintain a minimalist tech and educational feel, ensuring the brand appears both forward-thinking and highly professional. White inner structural lines on the cube enhance legibility at small sizes while implying connectivity and framework design.
